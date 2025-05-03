@@ -8,7 +8,7 @@
 
 Присоединяйтесь к нашему сообществу и дайте своему бренду мощный визуальный импульс!  
 
-📫 Свяжитесь с нами: [почта](logopulp@mail.ru) | [сайт](https://logopulp.com](https://logopulp.github.io/logopulp/))  
+📫 Свяжитесь с нами: [почта](mailto:logopulp@mail.ru) | [сайт](https://logopulp.com](https://logopulp.github.io/logopulp/))  
 
 <!-- Copyright (c) 2025 LogoPulp. All rights reserved. -->
 
